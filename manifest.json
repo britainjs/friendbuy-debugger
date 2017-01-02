@@ -1,0 +1,12 @@
+{
+  "manifeset_version": 2,
+  "name": "Friendbuy Debugger",
+  "version": "0.01",
+  "default_locale": "en",
+  "description": "A debugger for Friendbuy integrations",
+  "icons": {
+    "16": "icon16.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+  }
+}
